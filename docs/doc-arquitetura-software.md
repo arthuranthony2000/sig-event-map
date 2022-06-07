@@ -21,7 +21,6 @@
 ## DTO
 
 ![DTO](images/DTO.jpeg)
-<img src="https://github.com/arthuranthony2000/sig-event-map/tree/main/docs/DTO.jpeg?raw=true" width="250" height="365">
 
 **_Data Transfer Object_**  (DTO) ou simplesmente  **_Transfer Object_**  é um padrão de projetos bastante usado em Java para o transporte de dados entre diferentes componentes de um sistema, diferentes instâncias ou processos de um sistema distribuído ou diferentes sistemas via serialização.
 
