@@ -8,13 +8,13 @@
 
 <p> View: A view é responsável pela interface que será apresentada, mostrando as informações do model para o usuário.
 
-<p> Toda esta arquitetura é interligada e conversam entre si. API é um conjunto de regras que definem como aplicativos ou dispositivos podem se conectar e se comunicar uns com os outros.
+<img src="https://github.com/arthuranthony2000/sig-event-map/tree/main/docs/mvc.jpeg?raw=true" width="250" height="365">
 
-<img src="https://github.com/arthuranthony2000/sig-event-map/tree/main/docs/backend.jpg?raw=true" width="250" height="365">
+<p> Toda esta arquitetura é interligada e conversam entre si. API é um conjunto de regras que definem como aplicativos ou dispositivos podem se conectar e se comunicar uns com os outros.
 
 ##  Modelo da Arquitetura MVC
 
-<img src="https://github.com/arthuranthony2000/sig-event-map/tree/main/docs/mvc.jpg?raw=true" width="250" height="365">
+<img src="https://github.com/arthuranthony2000/sig-event-map/tree/main/docs/back-front.jpg?raw=true" width="250" height="365">
 
 <p> Ou seja, a aplicação fará requisições a um controlador REST no back-end, na qual possui outras camadas como a de serviço, que ficará responsável por fazer o intermédio entre os controladores rest, e a camada de acesso a dados. A camada de domínio, que ficará responsável por armazenar as regras de negócio. E a camada de acesso a dados (repository), na qual será responsável por implementar interfaces de acesso e manipulação aos dados, nesse caso em um banco de dados no sgbd postgresql.
 
