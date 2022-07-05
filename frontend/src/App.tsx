@@ -2,8 +2,9 @@ import { lazy } from 'react';
 
 import './App.css';
 
-const Home = lazy(() => import('./components/Home'));
 const Navbar = lazy(() => import('./components/Navbar'));
+const Home = lazy(() => import('./components/Home'));
+
 
 function App() {
   return (

@@ -5,7 +5,7 @@ import { ReactComponent as Instalogo } from '../../assets/instagram.svg';
 function Footer(){
     return (
         <footer className="main-footer">
-            App desenvolvido para a disciplina PWEB
+            App desenvolvido para a graduação de BSI
             <div className="footer-icons">
                 <a href="https://github.com/arthuranthony2000/sig-event-map" target="_new">
                     <Gitlogo />
