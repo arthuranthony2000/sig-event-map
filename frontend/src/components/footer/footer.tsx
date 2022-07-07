@@ -13,6 +13,9 @@ function Footer(){
                 <a className="instalogo" href="https://www.instagram.com/adalberto_maia/" target="_new">
                     <Instalogo />
                 </a>
+                <a className="instalogo" href="https://www.instagram.com/arthuranthony2000/" target="_new">
+                    <Instalogo />
+                </a>
                 {new Date().toLocaleDateString()}
             </div>
         </footer>
