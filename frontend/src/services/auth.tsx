@@ -18,12 +18,12 @@ function Auth({ children }:any){
           
     const logon_git = useCallback(() => {
         const providerGit = new firebase.auth.GithubAuthProvider();
-        firebase.auth().signInWithRedirect(providerGit)
+        firebase.auth().signInWithRedirect(providerGit);
     }, [])
     
     const logon_google = useCallback(() =>{
         const providerGoogle = new firebase.auth.GoogleAuthProvider();
-        firebase.auth().signInWithRedirect(providerGoogle)
+        firebase.auth().signInWithRedirect(providerGoogle);
     }, [])
 
     const logout = useCallback(() => {

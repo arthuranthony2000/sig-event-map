@@ -8,7 +8,7 @@ import {
   Menu,
   MenuItem
  } from '@material-ui/core';
-import { Menu as MenuIcon} from '@material-ui/icons'
+import { Menu as MenuIcon} from '@material-ui/icons';
 import Modal from '@material-ui/core/Modal';
 import './styles.css';
 import { useState, useContext } from 'react';
