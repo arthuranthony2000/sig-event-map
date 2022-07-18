@@ -7,13 +7,10 @@ function Footer(){
         <footer className="main-footer">
             App desenvolvido para a disciplina PWEB
             <div className="footer-icons">
-                <a href="https://github.com/arthuranthony2000/sig-event-map" target="_new">
+                <a href="https://github.com/batbeto" target="_new">
                     <Gitlogo />
                 </a>
                 <a className="instalogo" href="https://www.instagram.com/adalberto_maia/" target="_new">
-                    <Instalogo />
-                </a>
-                <a className="instalogo" href="https://www.instagram.com/arthuranthony2000/" target="_new">
                     <Instalogo />
                 </a>
                 {new Date().toLocaleDateString()}
