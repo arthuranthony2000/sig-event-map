@@ -1,7 +1,7 @@
 import './styles.css';
 import { ReactComponent as Logo } from '../../assets/location_brasil.svg';
 import Navbar from 'react-bootstrap/Navbar';
-import Login from '../login';
+import Login from '../login'
 
 
 export default function Mainavbar(){
@@ -15,7 +15,7 @@ export default function Mainavbar(){
                     height="30px"
                     className="d-inline-block align-top"
                 />{' '}
-                Sig-Map-Event
+                Mutlu
             </Navbar.Brand>
             <Navbar.Brand className="btn_position">
                 <Login />
