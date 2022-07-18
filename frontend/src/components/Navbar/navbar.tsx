@@ -15,7 +15,7 @@ export default function Mainavbar(){
                     height="30px"
                     className="d-inline-block align-top"
                 />{' '}
-                Mutlu
+                Sig Event Map
             </Navbar.Brand>
             <Navbar.Brand className="btn_position">
                 <Login />
