@@ -50,6 +50,8 @@ public class EventService {
 		event = repository.save(event);
 		return new EventDTO(event);
 	}
+	
+	
 	@Transactional
 	public EventDTO updateEvent(Long id, EventDTO newEvent) {
 		Event event = repository.getOne(id);

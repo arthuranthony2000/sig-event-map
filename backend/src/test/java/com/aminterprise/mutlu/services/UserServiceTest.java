@@ -14,7 +14,6 @@ import com.aminterprise.mutlu.entities.UserStatus;
 import com.aminterprise.mutlu.repositories.UserRepository;
 import com.aminterprise.mutlu.dto.UserDTO;
 
-import com.aminterprise.mutlu.dto.UserDTO;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
