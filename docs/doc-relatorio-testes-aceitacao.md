@@ -27,7 +27,12 @@
 | Teste 03: Visualizar perfil Usuario    | A3 - Visualizar perfil Usuario <br/> A3.1. O ator acessa a landing page; <br/> A3.2. O ator seleciona a opção Entrar;  <br/> A3.2.1 O ator seleciona a opção Ver perfil; <br/> A3.3. Fim do fluxo. | A função A3.2.1 não foi implementada, não foi exibir o botão ver perfil.         |  Não é possivel ver um perfil de usuario no sistema.   |
 | Teste 04: Excluir Usuario    | A4 - Excluir Usuario <br/> A4.1. O ator acessa a landing page; <br/> A4.2. O ator seleciona a opção Entrar;  <br/> A4.2.1 O ator seleciona a opção Ver perfil; <br/> A4.2.2 O ator seleciona o botão excluir perfil; <br/> A4.2.3 O ator visualizará uma mensagem de confirmação; <br/> A4.2.4 O ator clica em confirmar e uma mensagem de confirmação é exibida; <br/> A4.3 O sistema salva os dados; <br/> A4.4. Fim do fluxo. | A função A4.2.1 não foi implementada, não foi exibir o botão ver perfil.         |  Não é possivel ver um perfil de usuario no sistema.   |
 
+### US001 – Manter Order
 
+| Teste  | Descrição | Especificação | Resultado |
+| --------------- | ---------------------- | ---------------------- | :-----------: |
+| Teste 01: Cadastrar Order     | A1 - Cadastrar Order	 <br/> A1.1. O ator seleciona os eventos; <br/> A1.2. O ator clica em finalizar compra; <br/> A1.2.1 O ator preenche os dados de pagamento;  <br/> A1.2.2 O ator clica em confirmar e uma mensagem de confirmação é exibida; <br/> A1.3 O sistema salva os dados; <br/> A1.4. Fim do fluxo. | Especificação OK.         |  OK.   |
+| Teste 02: Visualizar Order  | A2 - Visualizar Order	 <br/> A2.1. O ator seleciona Ver Perfil; <br/> A2.2. O ator clica em visualizar compras; <br/> A2.3. Fim do fluxo.  | Função A2.1 não implementada         |  Impossivel ver perfil de usuario   |
 
 
 
