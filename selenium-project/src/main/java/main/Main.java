@@ -11,5 +11,6 @@ public class Main {
 	 System.setProperty("webdriver.chrome.driver", "/home/ufrn/Downloads/chromedriver_linux64/chromedriver");
 	 driver = new ChromeDriver();
 	 
+	 Driver.viewCards();	 
  }
 }
