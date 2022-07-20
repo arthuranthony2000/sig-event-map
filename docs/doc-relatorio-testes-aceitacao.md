@@ -34,5 +34,15 @@
 | Teste 01: Cadastrar Order     | A1 - Cadastrar Order	 <br/> A1.1. O ator seleciona os eventos; <br/> A1.2. O ator clica em finalizar compra; <br/> A1.2.1 O ator preenche os dados de pagamento;  <br/> A1.2.2 O ator clica em confirmar e uma mensagem de confirmação é exibida; <br/> A1.3 O sistema salva os dados; <br/> A1.4. Fim do fluxo. | Especificação OK.         |  OK.   |
 | Teste 02: Visualizar Order  | A2 - Visualizar Order	 <br/> A2.1. O ator seleciona Ver Perfil; <br/> A2.2. O ator clica em visualizar compras; <br/> A2.3. Fim do fluxo.  | Função A2.1 não implementada         |  Impossivel ver perfil de usuario   |
 
+## Relatório de Bugs e Providências
+### Responsabilidade do Gerente
 
+| Teste  | Providência | Tarefas/Tipo | 
+| --------------- | ---------------------- | :-----------: |
+| US001 - Teste 03: Exibir Evento   | Corrigir a implementação do fluxo do user story. | Tarefa: Bug de Implementação.        |
+| US001 - Teste 04: Excluir Eventos   | Corrigir a implementação do fluxo do user story. | Tarefa: Bug de Implementação.        |
+| US002 - Teste 02: Alterar Usuario   | Corrigir a implementação do fluxo do user story. | Tarefa: Implementação de feature.        |
+| US002 - Teste 03: Visualizar perfil Usuario  | Corrigir a implementação do fluxo do user story. | Tarefa: Implementação de feature.        |
+| US002 - Teste 04: Excluir Usuario  | Corrigir a implementação do fluxo do user story. | Tarefa: Implementação de feature.        |
+| US004 - Teste 02: Cadastrar Order  | Corrigir a implementação do fluxo do user story. | Tarefa: Implementação de feature.        |
 
